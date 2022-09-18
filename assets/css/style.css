@@ -15,12 +15,10 @@ body {
 
 .bg-color-personal-info {
     background-color: #FFC09F;
-    margin-right: -4px;
 }
 
 .bg-color-work-history {
     background-color: #FFEE93;
-    margin-right: -4px;
 }
 
 .bg-color-contact {
@@ -384,7 +382,7 @@ button[type="submit"] {
 }
 
 .carousel-caption {
-    background-color: #67676791;
+    background-color: #676767cb;
 }
 
 .carousel-control-prev-icon,
